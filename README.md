@@ -5,31 +5,7 @@
 - 📫 You can reach me on [my website](https://mrcis.me/contact)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Recent Blog Posts
-
-* [Lisa](https://mrcis.me/lisa)
-* [Osmosis](https://mrcis.me/osmosis)
-
-* [Lisa](https://mrcis.me/lisa)
-* [Osmosis](https://mrcis.me/osmosis)
 
 
 
