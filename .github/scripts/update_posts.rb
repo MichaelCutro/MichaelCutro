@@ -1,6 +1,9 @@
 require 'httparty'
 require 'nokogiri'
 require 'octokit'
+require 'dotenv'
+
+Dotenv.load
 
 # Scrape blog posts from the website
 
