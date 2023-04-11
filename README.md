@@ -4,4 +4,9 @@
 - 💬 Ask me about tech, books, music
 - 📫 You can reach me on [my website](https://mrcis.me/contact)
 
-### Recent blog posts
+
+### Recent Blog Posts
+
+
+* [Osmosis](https://www.mrcis.me/blog/Osmosis)
+* [Lisa](https://www.mrcis.me/blog/Lisa)
