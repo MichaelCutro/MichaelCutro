@@ -6,7 +6,11 @@
 
 
 
+
 ### Recent Blog Posts
+
+* [Lisa](https://mrcis.me/lisa)
+* [Osmosis](https://mrcis.me/osmosis)
 
 * [Lisa](https://mrcis.me/lisa)
 * [Osmosis](https://mrcis.me/osmosis)
