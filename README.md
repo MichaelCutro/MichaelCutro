@@ -5,4 +5,8 @@
 - 📫 You can reach me on [my website](https://mrcis.me/contact)
 
 
+
 ### Recent Blog Posts
+
+* [Osmosis](https://mrcis.me/blog/Osmosis)
+* [Lisa](https://mrcis.me/blog/Lisa)
